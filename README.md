@@ -1,8 +1,7 @@
-# ptonCycle
-
 # Goals
 - Help cyclers in Princeton make the most of it, especially newcomers!
 - Produce planning relevant information to make Princeton even better for cyclers.
+Some context: Philly has 500 users for 1.5M inhabitants. Pton has 30k inhabitants, at the same ratio that's 10 users. Not planning relevant! so any Princeton planning app has to be well liked.
 
 # Ideas:
 - Baseline is give people easy access to some resources, and allow to report trips to DVRPC.
@@ -19,10 +18,11 @@
  - For giving feedback
  - For chiming in on others reports
 - Utility to convert GPX or KML file to the JSON file format that Cycle Philly server receives, reach out to users of existing devices (gateway drug to our app! ;) )
-- 
+
 # We need:
 - If you bike a lot, and use some apps or would consider it, welcome to join in!
 - Any experience in Android programming would be great! Web stuff is also likely.
+- Graphics/design skills.
 - Writers: someone needs to read some links and write a short guide to cycling in Princeton (with links to more detail)
 - Experience with GIS related formats/software including just using it, especially OSM but others too.
 - People knowledgable about transit/cycles/bicycle in Princeton.
@@ -39,6 +39,6 @@
 - 'Bike Princeton' Facebook page
 - Relevant OSM tags: http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_parking and  http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_rental for bikeshare
 - OSM based services http://wiki.openstreetmap.org/wiki/List_of_OSM-based_services such as CycleStreets
-- 
+
 See the file PlanningContext.md for what we know about how trips can get used.
 - [ ] Add PlanningContext.md
