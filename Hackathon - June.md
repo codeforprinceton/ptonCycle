@@ -1,11 +1,13 @@
 Prioritize
 
 # Developers' TODO:
+
 # Front-end
   - [ ] Activity: START/STOP TRIP
   - [ ] Activity: Saved trips
   - [ ] Talk to backend
   - [ ] Activity: Reporting issuesss
+
 # Back-end
   - [ ] Report to Cycle Philly (-> DVRPVC)
   - [ ] Conversion: GPX -> JSON
