@@ -1,9 +1,23 @@
 Prioritize
 
 # Developers' TODO:
-  - [ ] Customize cyclePhilly for Princeton; 
-      - [ ] swap the use of google maps with OSM.
-      - [ ] research what server the app uploads the data to in existing cycle philly and figure out if we can reuse or setup one for ptonCycle
+# Front-end
+  - [ ] Activity: START/STOP TRIP
+  - [ ] Activity: Saved trips
+  - [ ] Talk to backend
+  - [ ] Activity: Reporting issuesss
+# Back-end
+  - [ ] Report to Cycle Philly (-> DVRPVC)
+  - [ ] Conversion: GPX -> JSON
+  - [ ] Report issues
+
+# Future:
+  - [ ] Activity: BIKE FAC INFO
+    - [ ] Load OSM
+    - [ ] Menus for bike racks/etc
+  - [ ] Activity: Settings (logging freq)
+  - [ ] Ability to delete trips
+  - [ ] Show weather
 
 # Researchers' TODO:
 - [ ] Where are the bike facility in Princeton
