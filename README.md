@@ -42,5 +42,4 @@ Some context: Philly has 500 users for 1.5M inhabitants. Pton has 30k inhabitant
 - Relevant OSM tags: http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_parking and  http://wiki.openstreetmap.org/wiki/Tag:amenity%3Dbicycle_rental for bikeshare
 - OSM based services http://wiki.openstreetmap.org/wiki/List_of_OSM-based_services such as CycleStreets
 
-See the file PlanningContext.md for what we know about how trips can get used.
-- [ ] Add PlanningContext.md
+See the file PlanningProcess.md for what we know about how trips can get used.
