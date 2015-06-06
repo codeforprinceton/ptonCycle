@@ -6,12 +6,15 @@ Prioritize
   - [ ] Activity: START/STOP TRIP
   - [ ] Activity: Saved trips
   - [ ] Talk to backend
-  - [ ] Activity: Reporting issuesss
+  - [ ] Activity: Reporting issues
 
 # Back-end
   - [ ] Report to Cycle Philly (-> DVRPVC)
   - [ ] Conversion: GPX -> JSON
-  - [ ] Report issues
+  - [ ] Report issues 
+     - Immediate issues: maybe to Access Princeton
+     - [ ] Research on Access Princeton API
+     - [ ] Database for the issues
 
 # Future:
   - [ ] Activity: BIKE FAC INFO
