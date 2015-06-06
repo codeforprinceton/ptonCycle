@@ -31,7 +31,9 @@ Some context: Philly has 500 users for 1.5M inhabitants. Pton has 30k inhabitant
 - https://github.com/mendhak/gpslogger kit: tracks your location in a battery-saving manner.  
 - https://github.com/PhillyOpen/Cycle-Philly-Android Reports trips to DVRPC
 - http://www.cyclestreets.net/mobile/android/ A non-open source app that is interesting
+- http://www.dvrpc.org/asp/bikemercer/ Mercer County Bike Map
 - https://github.com/crvanpollard/DVRPC-geodata includes the Mercer County Bike Map in shapefile format and other datasets.
+- http://opentrips.phl.io/ an open trip planner (combined public transport and biking)
 - Princeton Pedestrian and Bike Advisory Committee (PBAC) website and blog: http://www.princetonnj.gov/bicycle.html http://pjpbac.blogspot.com
 - PBAC mailing list - reaches over 200 people. 
 - West Windsor Bicycle Pedestrian Alliance
