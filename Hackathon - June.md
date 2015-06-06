@@ -1,3 +1,5 @@
+Prioritize
+
 # Developers' TODO:
   - [ ] Customize cyclePhilly for Princeton; 
       - [ ] swap the use of google maps with OSM.
