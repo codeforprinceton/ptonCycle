@@ -27,6 +27,10 @@ Some context: Philly has 500 users for 1.5M inhabitants. Pton has 30k inhabitant
 - Experience with GIS related formats/software including just using it, especially OSM but others too.
 - People knowledgable about transit/cycles/bicycle in Princeton.
 
+# Join us:
+- Invite yourself to Slack: https://slackinvite.me/to/codeforprinceton
+- Join the #cycing channel: https://codeforprinceton.slack.com/messages/cycling/
+
 # Links and communities:
 - https://github.com/mendhak/gpslogger kit: tracks your location in a battery-saving manner.  
 - https://github.com/PhillyOpen/Cycle-Philly-Android Reports trips to DVRPC
