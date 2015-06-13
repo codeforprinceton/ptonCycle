@@ -12,6 +12,7 @@
   - [ ] Activity: Settings (logging freq)
   - [ ] Ability to delete trips
   - [ ] Show weather
+  - [ ] Research on Access Princeton API or other database for the reported issue
   
 # Developers' TODO:
 
@@ -19,12 +20,8 @@
   - [X] Activity: START/STOP TRIP
 
 # Back-end
-  - [ ] Report to Cycle Philly (-> DVRPVC)
+  - [X] Report to Cycle Philly (-> DVRPVC)
   - [X] Conversion: GPX -> JSON
-  - [ ] Report issues 
-     - Immediate issues: maybe to Access Princeton
-     - [ ] Research on Access Princeton API
-     - [ ] Database for the issues
 
 
 # Researchers' TODO:
