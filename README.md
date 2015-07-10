@@ -32,7 +32,7 @@ Some context: Philly has 500 users for 1.5M inhabitants. Pton has 30k inhabitant
 - Join the #cycing channel: https://codeforprinceton.slack.com/messages/cycling/
 
 # Links and communities:
-- https://github.com/mendhak/gpslogger kit: tracks your location in a battery-saving manner.  
+- https://github.com/daniel-vainsencher/gpslogger Android app., tracks your location in a battery-saving manner.  We are modifying this to create our initial application.
 - https://github.com/PhillyOpen/Cycle-Philly-Android Reports trips to DVRPC
 - http://www.cyclestreets.net/mobile/android/ A non-open source app that is interesting
 - http://www.dvrpc.org/asp/bikemercer/ Mercer County Bike Map
